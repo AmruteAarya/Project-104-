@@ -1,0 +1,11 @@
+body{
+    background-color: lightsalmon;
+    font-size: medium;
+    font-family:'Macondo', cursive;
+    color:black;
+}
+button{
+    border-radius: 60px;
+    text-decoration: solid;
+    size: 700px;
+}
